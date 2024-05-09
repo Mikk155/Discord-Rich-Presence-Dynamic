@@ -1,0 +1,31 @@
+{
+    "client ID": 1064758287423246408,
+    "interval update": 2,
+    "buttons":
+    [
+        [
+            "Github",
+            "https://github.com/Mikk155",
+            "github",
+            "Github profile"
+        ],
+        [
+            "PayPal",
+            "https://paypal.me/mikk1555",
+            "paypal",
+            "Donations"
+        ],
+        [
+            "Limitless Potential",
+            "https://discord.com/invite/sqK7F3kZfn",
+            "limitlesspotential",
+            "Discord server for about anything"
+        ],
+        [
+            "The Cult (+18)",
+            "https://discord.gg/b6ASQVkDfu",
+            "thecult",
+            "Discord server NSFW"
+        ]
+    ]
+}
