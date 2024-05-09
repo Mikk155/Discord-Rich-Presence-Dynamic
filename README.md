@@ -27,3 +27,7 @@ Open [rpc.json](rpc.json) to configure
 | 1 | string | Link to open when click the button |
 | 2 | string | Imagen name to use for this button (Add to your Application) |
 | 3 | string | String to display above the button |
+
+# Running
+
+Using [rpc.bat](rpc.bat) will execute it on the background (windows only. accepting pull requests)
