@@ -30,4 +30,16 @@ Open [rpc.json](rpc.json) to configure
 
 # Running
 
-Using [rpc.bat](rpc.bat) will execute it on the background (windows only. accepting pull requests)
+### Windows
+Using [rpc.bat](rpc.bat) will execute it on the background
+
+### Linux
+Using [rpc.sh](rpc.sh) will execute it on the background
+```sh
+chmod +x start_rpc.sh
+```
+```sh
+./start_rpc.sh
+```
+
+- Linux's batch is untested but should work
